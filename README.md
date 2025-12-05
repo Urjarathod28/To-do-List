@@ -15,7 +15,8 @@ This project includes **enhanced UI styling**, hover effects, and a clean center
  
 ## 📂 Project Structure
  
-```/my-app
+```
+/my-app
 │--screenshot
        |-(Screenshot_5-12-2025_12599_localhost.jpeg)
        |-(Screenshot_5-12-2025_125829_localhost.jpeg)
@@ -32,21 +33,23 @@ This project includes **enhanced UI styling**, hover effects, and a clean center
 │
 ├── package.json
 ├── README.md
-└── .gitignore```
+└── .gitignore
+```
  
 ## screenshot
  
 1.home page
-![alt text](Screenshot_5-12-2025_125829_localhost.jpeg) 
+![Screenshot_5-12-2025_125829_localhost](https://github.com/user-attachments/assets/1c8c76c2-bd8f-4455-b33d-18644b172016)
+
 2.
 add task
-![alt text](Screenshot_5-12-2025_12599_localhost.jpeg)
+![Screenshot_5-12-2025_12599_localhost](https://github.com/user-attachments/assets/4d85fe20-7762-4dfd-aa60-c748b30f1c4b)
+
  
 3.edit task
-![alt text](Screenshot_5-12-2025_125849_localhost.jpeg)
-![
-    
-](Screenshot_5-12-2025_125921_localhost.jpeg)
+![Screenshot_5-12-2025_125849_localhost](https://github.com/user-attachments/assets/8da79146-cc3f-4e6a-85b7-0d9364be8d4c)
+![Screenshot_5-12-2025_125849_localhost](https://github.com/user-attachments/assets/537dddf9-c271-4902-b132-d5807564413e)
+
 ## 🛠️ Technologies Used
  
 - React.js
@@ -98,4 +101,5 @@ Contributions are welcome!
 This project is under the MIT License.
 
  
+
 
