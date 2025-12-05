@@ -15,7 +15,7 @@ This project includes **enhanced UI styling**, hover effects, and a clean center
  
 ## 📂 Project Structure
  
-'''/my-app
+```/my-app
 │--screenshot
        |-(Screenshot_5-12-2025_12599_localhost.jpeg)
        |-(Screenshot_5-12-2025_125829_localhost.jpeg)
@@ -32,7 +32,7 @@ This project includes **enhanced UI styling**, hover effects, and a clean center
 │
 ├── package.json
 ├── README.md
-└── .gitignore'''
+└── .gitignore```
  
 ## screenshot
  
@@ -98,3 +98,4 @@ Contributions are welcome!
 This project is under the MIT License.
 
  
+
