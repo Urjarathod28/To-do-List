@@ -39,16 +39,20 @@ This project includes **enhanced UI styling**, hover effects, and a clean center
 ## screenshot
  
 1.home page
-![Screenshot_5-12-2025_125829_localhost](https://github.com/user-attachments/assets/1c8c76c2-bd8f-4455-b33d-18644b172016)
+![Screenshot_5-12-2025_125829_localhost](https://github.com/user-attachments/assets/e1c2d5ad-f96a-4139-a005-175fc11e743b)
 
-2.
-add task
-![Screenshot_5-12-2025_12599_localhost](https://github.com/user-attachments/assets/4d85fe20-7762-4dfd-aa60-c748b30f1c4b)
 
- 
+2.add task
+![Screenshot_5-12-2025_125849_localhost](https://github.com/user-attachments/assets/a98c51e9-f80f-4bb0-9b17-e90cd2cc8952)
+
 3.edit task
-![Screenshot_5-12-2025_125849_localhost](https://github.com/user-attachments/assets/8da79146-cc3f-4e6a-85b7-0d9364be8d4c)
-![Screenshot_5-12-2025_125849_localhost](https://github.com/user-attachments/assets/537dddf9-c271-4902-b132-d5807564413e)
+![Screenshot_5-12-2025_12599_localhost](https://github.com/user-attachments/assets/041c8bcc-fbdd-49fb-8fed-c411231c1a0b)
+![Screenshot_5-12-2025_125921_localhost](https://github.com/user-attachments/assets/0003aba8-9fe5-47be-97e0-3934c0c50598)
+
+4.delete task
+![Screenshot 2025-12-05 140732](https://github.com/user-attachments/assets/c2d997ea-3ea8-48ea-872c-6c5075cee5f8)
+![Screenshot 2025-12-05 140840](https://github.com/user-attachments/assets/794340ac-4b57-4ee9-8ffd-2e10d3a745dc)
+
 
 ## 🛠️ Technologies Used
  
@@ -101,5 +105,6 @@ Contributions are welcome!
 This project is under the MIT License.
 
  
+
 
 
